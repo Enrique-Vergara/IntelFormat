@@ -2,8 +2,8 @@
 
 This project converts a .txt file with a specified format into a .hex file with the intel format. 
 
-<img src="Images/Intelformat.png"
-     alt="Markdown Monster icon"
+<img src="Images/intelformat.png"
+     alt="Intel Format"
      style="width:500px" />
 
 For the purpose of this project the length always will be 16, if there are less data it will be padded.
@@ -14,8 +14,6 @@ There are two ways in which the program can generate a .hex file, with a .txt fi
 
 <img src="Images/input.png" alt="Input method" style="width:300px; float: left; display:inline-block;"/>
 <img src="Images/searchfile.png" alt="Input method" style="width:300px; float: left; display:inline-block; margin-left: 20px"/>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 #### Via text file:
 
